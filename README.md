@@ -52,12 +52,16 @@ Texto Encriptado: hoberlai mufatndober
 
 También puedes usar una extensión como Live Server en VS Code para visualizarlo más cómodamente.
 
-### Cómo usarlo
+### **Cómo usarlo**
 
-1. Escribe un texto en el campo principal.
-2. Haz clic en Encriptar para transformar el mensaje.
-3. Haz clic en Desencriptar para revertir el texto.
-4. Usa el botón Copiar para colocar el resultado nuevamente en el campo de entrada.
+**1. Escribe un texto en el campo principal.**
+<img src="./imagenes/image.png" alt="Vista previa del proyecto" width="800">
+
+**2. Haz clic en Encriptar para transformar el mensaje.**
+<img src="./imagenes/image02.png" alt="Vista previa del proyecto" width="800">
+
+**3. Usa el botón Copiar para colocar el resultado nuevamente en el campo de entrada. Y por último haz clic en Desencriptar para revertir el texto.**
+<img src="./imagenes/image03.png" alt="Vista previa del proyecto" width="800">
 
 > [!NOTE]
 > En la implementación actual, el botón Copiar no copia al portapapeles; solo pasa el contenido del área de resultado al campo de texto principal.
