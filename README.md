@@ -2,6 +2,10 @@
 
 Aplicación web simple desarrollada con **HTML, CSS y JavaScript** que permite **encriptar y desencriptar mensajes** usando reemplazos personalizados de vocales. La interfaz está en español, solicita ingresar solo **letras minúsculas y sin acentos**, y ofrece botones para encriptar, desencriptar y mostrar el resultado en un segundo campo de texto.
 
+## LINK
+
+https://scarrascoore.github.io/Encriptador2024/
+
 ## Características
 
 - Encriptación de texto mediante reglas de reemplazo.
